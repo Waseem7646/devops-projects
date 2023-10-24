@@ -1,6 +1,7 @@
 # Real-World DevOps Projects For Learning
 
-DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]
+DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]![Uploading Final Diagram.jpg…]()
+
 
 ## Hit the Star! ⭐
 If you are planning to use this repo for learning, please hit the star. Thanks!
@@ -29,3 +30,5 @@ Apply Here: [AWS $300 free POC creditsCloud Platform](https://pages.awscloud.com
 All the project videos will be available on Youtube. Following are the published Videos
 
 1. [Jenkins HA Setup on AWS Using Autoscaling Group Using Packer, Ansible, and Terraform](https://www.youtube.com/watch?v=GLMJhF_cZ5M)
+2. ![service-discovery]https://user-images.githubusercontent.com/106984297/219394737-6f41c9f3-6c34-420b-9da2-9cc819f9c076.png
+3. 
